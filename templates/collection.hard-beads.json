@@ -1,0 +1,198 @@
+{
+  "sections": {
+    "f795a283-e018-4534-9ad3-726a1e205e82": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725241856291__f795a283-e018-4534-9ad3-726a1e205e82-16673402160b588789-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hard Beads<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241856291__f795a283-e018-4534-9ad3-726a1e205e82-16673402160b588789-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to Troutdrift!  I'm excited to offer you a wonderful selection of bead options to purchase for all your fishing adventures. Check out my products below.<\/p>"
+          }
+        },
+        "template--16725241856291__f795a283-e018-4534-9ad3-726a1e205e82-16673402160b588789-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241856291__f795a283-e018-4534-9ad3-726a1e205e82-16673402160b588789-0",
+        "template--16725241856291__f795a283-e018-4534-9ad3-726a1e205e82-16673402160b588789-1",
+        "template--16725241856291__f795a283-e018-4534-9ad3-726a1e205e82-16673402160b588789-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "caa5e76a-5930-4f12-a6b5-8563d6a6e539": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--16725241856291__caa5e76a-5930-4f12-a6b5-8563d6a6e539-1667339982c816f949-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "YOUR PARTNER IN FISHING",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241856291__caa5e76a-5930-4f12-a6b5-8563d6a6e539-1667339982c816f949-1": {
+          "type": "text",
+          "settings": {
+            "text": "If you need quality fishing tackle, trout beads, hooks, and more, I'm committed to providing those. Get in touch with me for more information!",
+            "text_style": "body"
+          }
+        },
+        "template--16725241856291__caa5e76a-5930-4f12-a6b5-8563d6a6e539-1667339982c816f949-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241856291__caa5e76a-5930-4f12-a6b5-8563d6a6e539-1667339982c816f949-0",
+        "template--16725241856291__caa5e76a-5930-4f12-a6b5-8563d6a6e539-1667339982c816f949-1",
+        "template--16725241856291__caa5e76a-5930-4f12-a6b5-8563d6a6e539-1667339982c816f949-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/kids_cooking_graphic_19.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "3bde5a63-bb14-46ca-ad3c-8c7b91b57453": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-0",
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-1",
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-2",
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-3",
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-4",
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-5",
+        "template--16725241856291__3bde5a63-bb14-46ca-ad3c-8c7b91b57453-16673402196f1a7d31-6"
+      ],
+      "settings": {
+        "product": "troutdrift-micro-swivels-25-pack",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 52,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "f795a283-e018-4534-9ad3-726a1e205e82",
+    "caa5e76a-5930-4f12-a6b5-8563d6a6e539",
+    "banner",
+    "product-grid",
+    "3bde5a63-bb14-46ca-ad3c-8c7b91b57453"
+  ]
+}

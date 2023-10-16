@@ -1,0 +1,185 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "KNOW YOUR PASSION -  FOLLOW IT, DREAM IT, DRIFT IT",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Troutdrift is happy to provide fishing enthusiasts and beginners with high-quality fishing terminal tackle, handmade trout beads and worms.  I offer a selection of products for your fishing enjoyment which include hooks, split-shot, hard and soft beads and other fishing necessities.   My online store also has glow beads available!",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "{{ shop.brand.cover_image }}",
+        "image_2": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-05T182928.335.png",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "001cfc67-7019-4cad-bc67-3b3371e5f846": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16725241921827__001cfc67-7019-4cad-bc67-3b3371e5f846-166733918797e9ad01-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Offering Quality Fishing Tackle and More",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241921827__001cfc67-7019-4cad-bc67-3b3371e5f846-166733918797e9ad01-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hello, I'm Richard.  Welcome to Troutdrift!  With over 35yrs of fishing fun and experience catching Steelhead, Salmon, Browntrout, and other species of fish,  I'm excited to provide fellow fishing enthusiasts and beginners with high-quality fishing terminal tackle including handmade trout beads and Troutdrift worms. I take pride in my inventory and I'm confident you will enjoy my products as much as I do.  With that being said It is my privilege to serve customers worldwide.<br\/><\/p><p>Know your passion, Follow it, Dream it, Drift it<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16725241921827__001cfc67-7019-4cad-bc67-3b3371e5f846-166733918797e9ad01-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241921827__001cfc67-7019-4cad-bc67-3b3371e5f846-166733918797e9ad01-0",
+        "template--16725241921827__001cfc67-7019-4cad-bc67-3b3371e5f846-166733918797e9ad01-1",
+        "template--16725241921827__001cfc67-7019-4cad-bc67-3b3371e5f846-166733918797e9ad01-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/kids_cooking_graphic_-_2022-11-01T174815.589.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>What People Say About My Products<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"I purchased some soft beads and terminal tackle from troutdrift. I hooked my first chromer on soft beads last weekend. I'm hooked on soft beads. The swivels and split shot are awesome. The hooks are of excellent quality and very strong and sharp too. I will buy more beads and tackle in the future. I recommend troutdrift to all my fishing buddies. \"<\/p><p>-  Lucas K. Wisconsin U.S.A<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "d86e6285-ca1c-4d86-95bc-545fa1515104": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16725241921827__d86e6285-ca1c-4d86-95bc-545fa1515104-16673394601799d668-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241921827__d86e6285-ca1c-4d86-95bc-545fa1515104-16673394601799d668-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16725241921827__d86e6285-ca1c-4d86-95bc-545fa1515104-16673394601799d668-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241921827__d86e6285-ca1c-4d86-95bc-545fa1515104-16673394601799d668-0",
+        "template--16725241921827__d86e6285-ca1c-4d86-95bc-545fa1515104-16673394601799d668-1",
+        "template--16725241921827__d86e6285-ca1c-4d86-95bc-545fa1515104-16673394601799d668-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-05T182911.563.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "001cfc67-7019-4cad-bc67-3b3371e5f846",
+    "rich_text",
+    "d86e6285-ca1c-4d86-95bc-545fa1515104"
+  ]
+}

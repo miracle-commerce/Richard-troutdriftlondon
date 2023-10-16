@@ -1,0 +1,817 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "50a30776-5343-4f3f-9db0-5dd535b01ed6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725242020131__50a30776-5343-4f3f-9db0-5dd535b01ed6-1667344649c408ae0f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725242020131__50a30776-5343-4f3f-9db0-5dd535b01ed6-1667344649c408ae0f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16725242020131__50a30776-5343-4f3f-9db0-5dd535b01ed6-1667344649c408ae0f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__50a30776-5343-4f3f-9db0-5dd535b01ed6-1667344649c408ae0f-0",
+        "template--16725242020131__50a30776-5343-4f3f-9db0-5dd535b01ed6-1667344649c408ae0f-1",
+        "template--16725242020131__50a30776-5343-4f3f-9db0-5dd535b01ed6-1667344649c408ae0f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 8
+      }
+    },
+    "48a32233-bdf6-4080-a4f2-2db55f4912f2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725242020131__48a32233-bdf6-4080-a4f2-2db55f4912f2-1667342585f37643e1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Troutdrift Shipping Policy<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "3e32e9b1-4bea-47de-8da0-44e6ad9a8cd4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Domestic Shipping Policy<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16725242020131__48a32233-bdf6-4080-a4f2-2db55f4912f2-1667342585f37643e1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Shipment Processing Time<\/strong><\/p>"
+          }
+        },
+        "b7ceb9bb-7e20-4a8b-9ae5-05cf530bef97": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All orders are processed within 2-3 business days. No order processing or shipping on weekends or holidays.<\/p>"
+          }
+        },
+        "template--16725242020131__48a32233-bdf6-4080-a4f2-2db55f4912f2-1667342585f37643e1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__48a32233-bdf6-4080-a4f2-2db55f4912f2-1667342585f37643e1-0",
+        "3e32e9b1-4bea-47de-8da0-44e6ad9a8cd4",
+        "template--16725242020131__48a32233-bdf6-4080-a4f2-2db55f4912f2-1667342585f37643e1-1",
+        "b7ceb9bb-7e20-4a8b-9ae5-05cf530bef97",
+        "template--16725242020131__48a32233-bdf6-4080-a4f2-2db55f4912f2-1667342585f37643e1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "d5620e8b-b061-4540-9f57-4dcb219d8ce6": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16725242020131__d5620e8b-b061-4540-9f57-4dcb219d8ce6-1667342585f37643e1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725242020131__d5620e8b-b061-4540-9f57-4dcb219d8ce6-1667342585f37643e1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16725242020131__d5620e8b-b061-4540-9f57-4dcb219d8ce6-1667342585f37643e1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__d5620e8b-b061-4540-9f57-4dcb219d8ce6-1667342585f37643e1-0",
+        "template--16725242020131__d5620e8b-b061-4540-9f57-4dcb219d8ce6-1667342585f37643e1-1",
+        "template--16725242020131__d5620e8b-b061-4540-9f57-4dcb219d8ce6-1667342585f37643e1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "04d1793f-6d7e-46a7-afed-4a261b0c070d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16725242020131__04d1793f-6d7e-46a7-afed-4a261b0c070d-1667342822c67beabd-0": {
+          "type": "column",
+          "settings": {
+            "title": "Shipment Method in Ontario",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16725242020131__04d1793f-6d7e-46a7-afed-4a261b0c070d-1667342822c67beabd-1": {
+          "type": "column",
+          "settings": {
+            "title": "Estimated Delivery Time",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16725242020131__04d1793f-6d7e-46a7-afed-4a261b0c070d-1667342822c67beabd-2": {
+          "type": "column",
+          "settings": {
+            "title": "Shipment Cost",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5b52f504-b548-4300-bd85-3cdb31329ff8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Standard<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "db8a46f2-c134-47b5-a1fe-3692642c3bef": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>4-7 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c92adc00-9073-466c-be9f-321186db3ebc": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$10.95<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "89af7892-bab7-422f-a322-ddcac24db006": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Expedited<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d0ef0fa1-569d-4f57-94b6-092fe87f2cbf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>3-5 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d161bc75-bffb-4ecb-bbda-212887be290d": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$14.95<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d2c0353d-565b-439c-84c2-9c3130875177": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Express<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bcf51e71-513e-440b-919a-16a929d8cb72": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>2-3 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c6699eb0-b0c5-45b2-af62-7c5c17e45bce": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$19.95<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__04d1793f-6d7e-46a7-afed-4a261b0c070d-1667342822c67beabd-0",
+        "template--16725242020131__04d1793f-6d7e-46a7-afed-4a261b0c070d-1667342822c67beabd-1",
+        "template--16725242020131__04d1793f-6d7e-46a7-afed-4a261b0c070d-1667342822c67beabd-2",
+        "5b52f504-b548-4300-bd85-3cdb31329ff8",
+        "db8a46f2-c134-47b5-a1fe-3692642c3bef",
+        "c92adc00-9073-466c-be9f-321186db3ebc",
+        "89af7892-bab7-422f-a322-ddcac24db006",
+        "d0ef0fa1-569d-4f57-94b6-092fe87f2cbf",
+        "d161bc75-bffb-4ecb-bbda-212887be290d",
+        "d2c0353d-565b-439c-84c2-9c3130875177",
+        "bcf51e71-513e-440b-919a-16a929d8cb72",
+        "c6699eb0-b0c5-45b2-af62-7c5c17e45bce"
+      ],
+      "settings": {
+        "title": "Shipping Rates and Delivery Estimates",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "5b3888a9-c0f8-4e80-8037-5bf5b43d6cd3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16725242020131__5b3888a9-c0f8-4e80-8037-5bf5b43d6cd3-1667343493cda78dbf-0": {
+          "type": "column",
+          "settings": {
+            "title": "Shipping Within Canada",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16725242020131__5b3888a9-c0f8-4e80-8037-5bf5b43d6cd3-1667343493cda78dbf-1": {
+          "type": "column",
+          "settings": {
+            "title": "Estimated Delivery Time",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16725242020131__5b3888a9-c0f8-4e80-8037-5bf5b43d6cd3-1667343493cda78dbf-2": {
+          "type": "column",
+          "settings": {
+            "title": "Shipment Cost",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "03568f93-cb57-49fd-a4c5-8ccd3096e897": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Standard<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b79e4059-ed78-4dfd-8e12-5ddeb1a36a15": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6-10 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "efea8911-5899-4930-861b-91e0479c497b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$10.95.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0356ed56-b887-4fb0-b6f7-a9716d13f69b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Expedited<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "41bde29f-05ba-433d-b15f-ea105e619a20": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>5-7 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "85c5671d-ea7d-4b32-8b07-2e88778de103": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$14.95<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "50a87ba5-a8f7-4066-8e0f-0b31161a7f50": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Express<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "15121f00-1fb6-43d6-97a0-5ac126a5c220": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>3-5 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "83aec8c8-5802-4170-ad14-d0e268b27790": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$19.95<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__5b3888a9-c0f8-4e80-8037-5bf5b43d6cd3-1667343493cda78dbf-0",
+        "template--16725242020131__5b3888a9-c0f8-4e80-8037-5bf5b43d6cd3-1667343493cda78dbf-1",
+        "template--16725242020131__5b3888a9-c0f8-4e80-8037-5bf5b43d6cd3-1667343493cda78dbf-2",
+        "03568f93-cb57-49fd-a4c5-8ccd3096e897",
+        "b79e4059-ed78-4dfd-8e12-5ddeb1a36a15",
+        "efea8911-5899-4930-861b-91e0479c497b",
+        "0356ed56-b887-4fb0-b6f7-a9716d13f69b",
+        "41bde29f-05ba-433d-b15f-ea105e619a20",
+        "85c5671d-ea7d-4b32-8b07-2e88778de103",
+        "50a87ba5-a8f7-4066-8e0f-0b31161a7f50",
+        "15121f00-1fb6-43d6-97a0-5ac126a5c220",
+        "83aec8c8-5802-4170-ad14-d0e268b27790"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "205b1629-eb5d-4ed7-84f4-a47d59df2b80": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16725242020131__205b1629-eb5d-4ed7-84f4-a47d59df2b80-16673439053e2db019-0": {
+          "type": "column",
+          "settings": {
+            "title": "Shipping to United States",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16725242020131__205b1629-eb5d-4ed7-84f4-a47d59df2b80-16673439053e2db019-1": {
+          "type": "column",
+          "settings": {
+            "title": "Estimated Delivery Time",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16725242020131__205b1629-eb5d-4ed7-84f4-a47d59df2b80-16673439053e2db019-2": {
+          "type": "column",
+          "settings": {
+            "title": "Shipment Cost",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6e71708f-ffb3-4599-bae2-f6347d2087b6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Standard<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d56fc7e4-8e72-4f6e-8b26-ceb13b4e1224": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>7-14 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "405c48a4-85e2-4331-adac-8f18ad9e4ba2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$18.95<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "660b1278-7934-4c10-9725-b5e8d91b2712": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Expedited<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ab6f6018-371d-4eee-868b-45f34ab4ab73": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6-12 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7ab43027-f4e7-4039-9e1b-5f646424aab2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$24.95<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ea0697ef-a446-42e6-a522-9f55e0b50136": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Canada Post Express<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cc759695-1257-4df2-b6f0-dc6ce5b2ef71": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>5-7 Business Days<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b2cccac7-fe78-46c3-931d-811f346ad882": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>$29.95<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__205b1629-eb5d-4ed7-84f4-a47d59df2b80-16673439053e2db019-0",
+        "template--16725242020131__205b1629-eb5d-4ed7-84f4-a47d59df2b80-16673439053e2db019-1",
+        "template--16725242020131__205b1629-eb5d-4ed7-84f4-a47d59df2b80-16673439053e2db019-2",
+        "6e71708f-ffb3-4599-bae2-f6347d2087b6",
+        "d56fc7e4-8e72-4f6e-8b26-ceb13b4e1224",
+        "405c48a4-85e2-4331-adac-8f18ad9e4ba2",
+        "660b1278-7934-4c10-9725-b5e8d91b2712",
+        "ab6f6018-371d-4eee-868b-45f34ab4ab73",
+        "7ab43027-f4e7-4039-9e1b-5f646424aab2",
+        "ea0697ef-a446-42e6-a522-9f55e0b50136",
+        "cc759695-1257-4df2-b6f0-dc6ce5b2ef71",
+        "b2cccac7-fe78-46c3-931d-811f346ad882"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c666c07c-1e27-439d-abe0-3d475b4483fe": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725242020131__c666c07c-1e27-439d-abe0-3d475b4483fe-166734433446a5420f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725242020131__c666c07c-1e27-439d-abe0-3d475b4483fe-166734433446a5420f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>*For shipping outside of Canada and the U.S.A , please contact<\/strong><\/em><a href=\"mailto:troutdrift@gmail.com\"><em><strong>troutdrift@gmail.com<\/strong><\/em><\/a><em><strong>for shipping methods and pricing.<\/strong><\/em><\/p>"
+          }
+        },
+        "template--16725242020131__c666c07c-1e27-439d-abe0-3d475b4483fe-166734433446a5420f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__c666c07c-1e27-439d-abe0-3d475b4483fe-166734433446a5420f-0",
+        "template--16725242020131__c666c07c-1e27-439d-abe0-3d475b4483fe-166734433446a5420f-1",
+        "template--16725242020131__c666c07c-1e27-439d-abe0-3d475b4483fe-166734433446a5420f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a6b06997-49cb-47c0-b0bc-4b2473aebfb5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725242020131__a6b06997-49cb-47c0-b0bc-4b2473aebfb5-16673444143a6817a1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Shipment to P.O. Boxes or APO\/FPO Addresses<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16725242020131__a6b06997-49cb-47c0-b0bc-4b2473aebfb5-16673444143a6817a1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unfortunately, Troutdrift does not ship to P.O. boxes or APO\/FPO addresses.<\/p>"
+          }
+        },
+        "template--16725242020131__a6b06997-49cb-47c0-b0bc-4b2473aebfb5-16673444143a6817a1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__a6b06997-49cb-47c0-b0bc-4b2473aebfb5-16673444143a6817a1-0",
+        "template--16725242020131__a6b06997-49cb-47c0-b0bc-4b2473aebfb5-16673444143a6817a1-1",
+        "template--16725242020131__a6b06997-49cb-47c0-b0bc-4b2473aebfb5-16673444143a6817a1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "dbb78b6a-8642-4cb9-87ba-61855cb1b6df": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725242020131__dbb78b6a-8642-4cb9-87ba-61855cb1b6df-1667344464484645c7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Damages<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16725242020131__dbb78b6a-8642-4cb9-87ba-61855cb1b6df-1667344464484645c7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Troutdrift is not liable for any products damaged or lost during shipping. If you received your order damaged, please contact the shipment carrier directly to file a claim. Please save all packaging material and damaged goods before filing a claim.<\/p>"
+          }
+        },
+        "template--16725242020131__dbb78b6a-8642-4cb9-87ba-61855cb1b6df-1667344464484645c7-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__dbb78b6a-8642-4cb9-87ba-61855cb1b6df-1667344464484645c7-0",
+        "template--16725242020131__dbb78b6a-8642-4cb9-87ba-61855cb1b6df-1667344464484645c7-1",
+        "template--16725242020131__dbb78b6a-8642-4cb9-87ba-61855cb1b6df-1667344464484645c7-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "cbb29712-2ce8-4061-944e-bf7015fd0cc2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725242020131__cbb29712-2ce8-4061-944e-bf7015fd0cc2-1667344464484645c7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Shipping Confirmation & Order Tracking<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725242020131__cbb29712-2ce8-4061-944e-bf7015fd0cc2-1667344464484645c7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tracking info will be emailed to you once the order has been completed by Troutdrift Customs, duties, and taxes.<\/p><p><\/p><p>Troutdrift is not responsible for any customs and taxes applied to your order. All fees imposed during or after shipping are the responsibility of the customer (tariffs, taxes, etc.).<\/p>"
+          }
+        },
+        "template--16725242020131__cbb29712-2ce8-4061-944e-bf7015fd0cc2-1667344464484645c7-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__cbb29712-2ce8-4061-944e-bf7015fd0cc2-1667344464484645c7-0",
+        "template--16725242020131__cbb29712-2ce8-4061-944e-bf7015fd0cc2-1667344464484645c7-1",
+        "template--16725242020131__cbb29712-2ce8-4061-944e-bf7015fd0cc2-1667344464484645c7-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3aa53907-696b-4620-9740-e4068d1daa0f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725242020131__3aa53907-696b-4620-9740-e4068d1daa0f-16673445199ad8227b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Returns Policy<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725242020131__3aa53907-696b-4620-9740-e4068d1daa0f-16673445199ad8227b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Contact customer support at:  <a href=\"mailto:troutdrift@gmail.com\">troutdrift@gmail.com<\/a>.<\/p><p>There’s a 20% restocking fee if orders are returned.<\/p>"
+          }
+        },
+        "template--16725242020131__3aa53907-696b-4620-9740-e4068d1daa0f-16673445199ad8227b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725242020131__3aa53907-696b-4620-9740-e4068d1daa0f-16673445199ad8227b-0",
+        "template--16725242020131__3aa53907-696b-4620-9740-e4068d1daa0f-16673445199ad8227b-1",
+        "template--16725242020131__3aa53907-696b-4620-9740-e4068d1daa0f-16673445199ad8227b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "50a30776-5343-4f3f-9db0-5dd535b01ed6",
+    "48a32233-bdf6-4080-a4f2-2db55f4912f2",
+    "d5620e8b-b061-4540-9f57-4dcb219d8ce6",
+    "04d1793f-6d7e-46a7-afed-4a261b0c070d",
+    "5b3888a9-c0f8-4e80-8037-5bf5b43d6cd3",
+    "205b1629-eb5d-4ed7-84f4-a47d59df2b80",
+    "c666c07c-1e27-439d-abe0-3d475b4483fe",
+    "a6b06997-49cb-47c0-b0bc-4b2473aebfb5",
+    "dbb78b6a-8642-4cb9-87ba-61855cb1b6df",
+    "cbb29712-2ce8-4061-944e-bf7015fd0cc2",
+    "3aa53907-696b-4620-9740-e4068d1daa0f"
+  ]
+}

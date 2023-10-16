@@ -1,0 +1,217 @@
+{
+  "sections": {
+    "ad67250f-98ba-4cb6-8cdc-03f95b457c68": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725241757987__ad67250f-98ba-4cb6-8cdc-03f95b457c68-1667342488d628fa87-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241757987__ad67250f-98ba-4cb6-8cdc-03f95b457c68-1667342488d628fa87-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16725241757987__ad67250f-98ba-4cb6-8cdc-03f95b457c68-1667342488d628fa87-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241757987__ad67250f-98ba-4cb6-8cdc-03f95b457c68-1667342488d628fa87-0",
+        "template--16725241757987__ad67250f-98ba-4cb6-8cdc-03f95b457c68-1667342488d628fa87-1",
+        "template--16725241757987__ad67250f-98ba-4cb6-8cdc-03f95b457c68-1667342488d628fa87-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "996bb22c-03d8-4ed4-8682-baf4b6a28fde": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16725241757987__996bb22c-03d8-4ed4-8682-baf4b6a28fde-16673423079d6ca6dc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Order My Fishing Products Today",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241757987__996bb22c-03d8-4ed4-8682-baf4b6a28fde-16673423079d6ca6dc-1": {
+          "type": "text",
+          "settings": {
+            "text": "With my online store, you no longer have to drive far or look elsewhere when shopping.  Here at Troutdrift I'm happy to offer you a great selection of high-quality terminal tackle including handmade trout beads, wigglerz-worms. Please reach out to me with any questions via Facebook or Instagram.    I'm happy to help.  Happy Shopping!",
+            "text_style": "body"
+          }
+        },
+        "template--16725241757987__996bb22c-03d8-4ed4-8682-baf4b6a28fde-16673423079d6ca6dc-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Order Now!",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241757987__996bb22c-03d8-4ed4-8682-baf4b6a28fde-16673423079d6ca6dc-0",
+        "template--16725241757987__996bb22c-03d8-4ed4-8682-baf4b6a28fde-16673423079d6ca6dc-1",
+        "template--16725241757987__996bb22c-03d8-4ed4-8682-baf4b6a28fde-16673423079d6ca6dc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-05T165429.536.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "916188b6-a19a-4dac-a988-6f1eda6cc0f5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16725241757987__916188b6-a19a-4dac-a988-6f1eda6cc0f5-166734242609d993c5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Let's Start a Conversation<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241757987__916188b6-a19a-4dac-a988-6f1eda6cc0f5-166734242609d993c5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Contact Troutdrift today to find out more about the different custom fishing products I offer. With my online store, you no longer have to drive far or look elsewhere if you need high-quality trout beads, worms, fishing hooks, and more. Get in touch with me today to learn more or to get started!<\/p>"
+          }
+        },
+        "template--16725241757987__916188b6-a19a-4dac-a988-6f1eda6cc0f5-166734242609d993c5-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241757987__916188b6-a19a-4dac-a988-6f1eda6cc0f5-166734242609d993c5-0",
+        "template--16725241757987__916188b6-a19a-4dac-a988-6f1eda6cc0f5-166734242609d993c5-1",
+        "template--16725241757987__916188b6-a19a-4dac-a988-6f1eda6cc0f5-166734242609d993c5-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ed96a8ee-4668-41c9-b2e9-6a6208006c3c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16725241757987__ed96a8ee-4668-41c9-b2e9-6a6208006c3c-1667353627f1cc3897-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16725241757987__ed96a8ee-4668-41c9-b2e9-6a6208006c3c-1667353627f1cc3897-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16725241757987__ed96a8ee-4668-41c9-b2e9-6a6208006c3c-1667353627f1cc3897-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16725241757987__ed96a8ee-4668-41c9-b2e9-6a6208006c3c-1667353627f1cc3897-0",
+        "template--16725241757987__ed96a8ee-4668-41c9-b2e9-6a6208006c3c-1667353627f1cc3897-1",
+        "template--16725241757987__ed96a8ee-4668-41c9-b2e9-6a6208006c3c-1667353627f1cc3897-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-05T182911.563.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "ad67250f-98ba-4cb6-8cdc-03f95b457c68",
+    "996bb22c-03d8-4ed4-8682-baf4b6a28fde",
+    "main",
+    "916188b6-a19a-4dac-a988-6f1eda6cc0f5",
+    "form",
+    "ed96a8ee-4668-41c9-b2e9-6a6208006c3c"
+  ]
+}
